@@ -4,11 +4,29 @@ name: Awesome Claude Code
 repo: https://github.com/hesreallyhim/awesome-claude-code
 stars: 26606
 license: CC0-1.0
+type: index
 platforms:
   - claude-code
   - openclaw
 indexed_at: 2026-03-07
 commit: main
+skills:
+  - name: memory-bank
+    description: 长期记忆管理
+    category: 记忆
+  - name: sequential-thinking
+    description: 顺序思考模式
+    category: 思维
+  - name: context-engineering
+    description: 上下文工程
+    category: 工程
+  - name: prompt-engineering
+    description: Prompt 工程最佳实践
+    category: 工程
+  - name: task-master
+    description: 任务分解与执行
+    category: 任务
+note: "索引类仓库，skills 列表仅为示例，完整内容见原文"
 ---
 
 # Awesome Claude Code

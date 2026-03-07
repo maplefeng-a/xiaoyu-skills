@@ -11,6 +11,75 @@ platforms:
   - openclaw
 indexed_at: 2026-03-07
 commit: main
+skills:
+  - name: docx
+    description: 创建、读取、编辑、转换 Word 文档 (.docx)
+    category: 文档
+    license: Proprietary
+  - name: pdf
+    description: PDF 处理与分析
+    category: 文档
+    license: Proprietary
+  - name: pptx
+    description: PowerPoint 创建与编辑
+    category: 文档
+    license: Proprietary
+  - name: xlsx
+    description: Excel 电子表格创建与操作
+    category: 文档
+    license: Proprietary
+  - name: mcp-builder
+    description: 构建 MCP (Model Context Protocol) 服务器
+    category: 开发
+    license: Apache-2.0
+  - name: skill-creator
+    description: 创建、修改、优化 Agent Skills
+    category: 开发
+    license: Apache-2.0
+  - name: claude-api
+    description: Claude API 使用指南与最佳实践
+    category: 开发
+    license: Apache-2.0
+  - name: webapp-testing
+    description: Web 应用测试与自动化
+    category: 开发
+    license: Apache-2.0
+  - name: web-artifacts-builder
+    description: 构建 Web artifacts
+    category: 开发
+    license: Apache-2.0
+  - name: algorithmic-art
+    description: 算法艺术生成
+    category: 创意
+    license: Apache-2.0
+  - name: canvas-design
+    description: Canvas 设计工具
+    category: 创意
+    license: Apache-2.0
+  - name: theme-factory
+    description: 主题工厂 - 创建一致的设计主题
+    category: 创意
+    license: Apache-2.0
+  - name: frontend-design
+    description: 前端设计指南
+    category: 创意
+    license: Apache-2.0
+  - name: brand-guidelines
+    description: 品牌指南应用
+    category: 企业
+    license: Apache-2.0
+  - name: internal-comms
+    description: 内部沟通模板与指南
+    category: 企业
+    license: Apache-2.0
+  - name: doc-coauthoring
+    description: 文档协作流程
+    category: 企业
+    license: Apache-2.0
+  - name: slack-gif-creator
+    description: Slack GIF 创建工具
+    category: 工具
+    license: Apache-2.0
 ---
 
 # Anthropic Official Skills

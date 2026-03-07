@@ -4,6 +4,8 @@ name: Antigravity Awesome Skills
 repo: https://github.com/sickn33/antigravity-awesome-skills
 stars: 21008
 license: MIT
+type: collection
+skills_count: 1000+
 platforms:
   - claude-code
   - codex
@@ -11,6 +13,75 @@ platforms:
   - openclaw
 indexed_at: 2026-03-07
 commit: main
+skills:
+  # 工程开发
+  - name: code-review
+    description: 专业代码审查
+    category: 工程
+  - name: bug-fixer
+    description: Bug 定位与修复
+    category: 工程
+  - name: refactor-pro
+    description: 重构专家
+    category: 工程
+  - name: api-designer
+    description: API 设计助手
+    category: 工程
+  # 产品管理
+  - name: prd-writer
+    description: PRD 文档撰写
+    category: 产品
+  - name: roadmap-planner
+    description: 路线图规划
+    category: 产品
+  - name: competitor-analysis
+    description: 竞品分析
+    category: 产品
+  # 设计创意
+  - name: ui-designer
+    description: UI 设计指南
+    category: 设计
+  - name: ux-researcher
+    description: UX 研究方法
+    category: 设计
+  - name: brand-designer
+    description: 品牌设计
+    category: 设计
+  # 营销增长
+  - name: content-writer
+    description: 内容创作
+    category: 营销
+  - name: seo-optimizer
+    description: SEO 优化
+    category: 营销
+  - name: growth-hacker
+    description: 增长黑客
+    category: 营销
+  # 数据分析
+  - name: data-analyst
+    description: 数据分析
+    category: 数据
+  - name: sql-expert
+    description: SQL 查询优化
+    category: 数据
+  - name: ab-testing
+    description: A/B 测试
+    category: 数据
+  # 安全合规
+  - name: security-audit
+    description: 安全审计
+    category: 安全
+  - name: penetration-test
+    description: 渗透测试
+    category: 安全
+  # 运维监控
+  - name: devops-expert
+    description: DevOps 最佳实践
+    category: 运维
+  - name: incident-handler
+    description: 故障处理
+    category: 运维
+note: "集合类仓库，含 1000+ skills，此处仅列出代表性 skills，完整列表见仓库"
 ---
 
 # Antigravity Awesome Skills

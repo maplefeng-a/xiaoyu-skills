@@ -9,6 +9,129 @@ platforms:
   - openclaw
 indexed_at: 2026-03-07
 commit: main
+skills:
+  # 系统 Skills
+  - name: skill-installer
+    description: 安装和管理其他 skills
+    category: 系统
+  - name: skill-creator
+    description: 创建新 skills
+    category: 系统
+  - name: openai-docs
+    description: OpenAI 文档查询
+    category: 系统
+  # 文档 Skills
+  - name: doc
+    description: 文档创建与管理
+    category: 文档
+  - name: pdf
+    description: PDF 处理
+    category: 文档
+  - name: slides
+    description: 幻灯片创建
+    category: 文档
+  - name: spreadsheet
+    description: 电子表格操作
+    category: 文档
+  # 开发 Skills
+  - name: playwright
+    description: Playwright 自动化测试
+    category: 开发
+  - name: playwright-interactive
+    description: 交互式 Playwright 测试
+    category: 开发
+  - name: aspnet-core
+    description: ASP.NET Core 开发
+    category: 开发
+  - name: chatgpt-apps
+    description: ChatGPT 应用开发
+    category: 开发
+  - name: develop-web-game
+    description: Web 游戏开发
+    category: 开发
+  - name: winui-app
+    description: Windows UI 应用开发
+    category: 开发
+  - name: gh-address-comments
+    description: GitHub 处理 PR 评论
+    category: 开发
+  - name: gh-fix-ci
+    description: GitHub 修复 CI
+    category: 开发
+  # 设计 Skills
+  - name: figma
+    description: Figma 设计集成
+    category: 设计
+  - name: figma-implement-design
+    description: 实现 Figma 设计
+    category: 设计
+  # 创意 Skills
+  - name: screenshot
+    description: 网页截图工具
+    category: 工具
+  - name: imagegen
+    description: 图像生成
+    category: 创意
+  - name: sora
+    description: Sora 视频生成
+    category: 创意
+  # 音频 Skills
+  - name: speech
+    description: 语音合成
+    category: 音频
+  - name: transcribe
+    description: 语音转文字
+    category: 音频
+  # 数据 Skills
+  - name: jupyter-notebook
+    description: Jupyter Notebook 操作
+    category: 数据
+  # 部署 Skills
+  - name: vercel-deploy
+    description: Vercel 部署
+    category: 部署
+  - name: netlify-deploy
+    description: Netlify 部署
+    category: 部署
+  - name: cloudflare-deploy
+    description: Cloudflare 部署
+    category: 部署
+  - name: render-deploy
+    description: Render 部署
+    category: 部署
+  # 协作 Skills
+  - name: notion-meeting-intelligence
+    description: Notion 会议智能
+    category: 协作
+  - name: notion-knowledge-capture
+    description: Notion 知识捕获
+    category: 协作
+  - name: notion-research-documentation
+    description: Notion 研究文档
+    category: 协作
+  - name: notion-spec-to-implementation
+    description: Notion 规格到实现
+    category: 协作
+  - name: linear
+    description: Linear 项目管理
+    category: 协作
+  - name: sentry
+    description: Sentry 错误监控
+    category: 监控
+  # 安全 Skills
+  - name: security-best-practices
+    description: 安全最佳实践
+    category: 安全
+  - name: security-ownership-map
+    description: 安全所有权映射
+    category: 安全
+  - name: security-threat-model
+    description: 威胁建模
+    category: 安全
+  # 其他
+  - name: yeet
+    description: 快速分享代码片段
+    category: 工具
 ---
 
 # OpenAI Codex Skills
