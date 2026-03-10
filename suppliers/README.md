@@ -11,6 +11,9 @@
 |----|------|------|-------|--------|------|
 | anthropic | [Anthropic Official](official/anthropic.md) | 官方 | 85.9k | 17 | claude-code, claude-api, openclaw |
 | openai | [OpenAI Codex](official/openai.md) | 官方 | 11.9k | 38+ | codex, openclaw |
+| awesome-claude-skills | [Awesome Claude Skills (ComposioHQ)](community/awesome-claude-skills.md) | 社区 | 18K+ | 30+ | claude-code, claude-api, openclaw |
+| superpowers | [Superpowers (obra)](community/superpowers.md) | 社区 | 高星 | 14 | claude-code, openclaw |
+| clawhub-skills | [ClawHub Platform](community/clawhub-skills.md) | 平台 | N/A | 22004+ | openclaw, claude-code |
 | awesome-claude-code | [Awesome Claude Code](community/awesome-claude-code.md) | 社区 | 26.6k | - | claude-code |
 | antigravity-skills | [Antigravity Awesome Skills](community/antigravity-awesome-skills.md) | 社区 | 21.0k | 1000+ | claude-code, codex, cursor |
 
@@ -23,6 +26,9 @@ suppliers/
 │   └── openai.md
 ├── community/       # 社区仓库
 │   ├── awesome-claude-code.md
+│   ├── awesome-claude-skills.md    # NEW
+│   ├── superpowers.md              # NEW
+│   ├── clawhub-skills.md           # NEW
 │   └── antigravity-awesome-skills.md
 └── niche/           # 细分领域
     └── (待添加)
